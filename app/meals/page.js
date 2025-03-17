@@ -23,3 +23,5 @@ export default async function MealsPage() {
     </>
   );
 }
+
+  
