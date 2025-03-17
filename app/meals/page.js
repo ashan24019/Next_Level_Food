@@ -7,7 +7,7 @@ export default function MealsPage() {
     <>
       <header className={classes.header}>
         <h1>
-          Delicious meals, created{" "}
+          Delicious meals, created{' '}
           <span className={classes.highlight}>by you</span>
         </h1>
         <p>Choose your favorite and cook it yourself. Its easy and fun!</p>
@@ -16,7 +16,7 @@ export default function MealsPage() {
         </p>
       </header>
       <main className={classes.main}>
-        <MealsGrid meals={[]}/>
+        <MealsGrid meals={[ ]}/>
 
       </main>
     </>
