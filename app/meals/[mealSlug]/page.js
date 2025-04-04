@@ -49,3 +49,5 @@ export default function MealDetailsPage({ params }) {
     </>
   );
 }
+
+// Complete
